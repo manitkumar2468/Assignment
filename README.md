@@ -1,1 +1,1 @@
-# All the assignment for web fundamental 2022 batch
+This program will take N user inputs and display the maximum of N.
