@@ -1,1 +1,0 @@
-Display maximum of three number
