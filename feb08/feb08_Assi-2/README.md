@@ -1,1 +1,0 @@
-Assignment 2. -> TODO App (structure) -> An html page which should contain an input text tag, a button and some ul/li.
